@@ -16,3 +16,5 @@ print('pic5')
 
 print('foot3')
 print('foot4')
+print('pic6')
+print('pic7')
