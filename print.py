@@ -10,3 +10,4 @@ print('pic3')
 print('pic4')
 
 print('foot1')
+print('foot2')
