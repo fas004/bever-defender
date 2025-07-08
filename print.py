@@ -6,3 +6,4 @@ print('футер')
 print('футер2')
 
 print('project1')
+print('pic3')
