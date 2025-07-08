@@ -12,4 +12,4 @@ print('pic4')
 print('foot1')
 print('foot2')
 
-print(pic5)
+print('pic5')
