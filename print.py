@@ -9,4 +9,4 @@ print('project1')
 print('pic3')
 print('pic4')
 
-print(pic5)
+print('pic5')
