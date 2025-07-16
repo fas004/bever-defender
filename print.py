@@ -23,3 +23,6 @@ print('foot3')
 print('foot4')
 print('pic6')
 print('pic7')
+
+
+print('start')
